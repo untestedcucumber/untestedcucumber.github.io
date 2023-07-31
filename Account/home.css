@@ -1,0 +1,66 @@
+input:hover {
+width : 101%;
+border-radius : 5px;
+border : solid 1px;
+border-color : cyan;
+}
+
+#create_account:hover {
+max-width : 201px;
+background-color : yellow;
+
+}
+
+
+#sign_up:hover {
+width : 102%;
+background-color : yellow;
+border-radius : 5px;
+border : solid 1px;
+}
+
+input {
+border-radius : 5px;
+border : solid 1px;
+border-color : orange;
+}
+
+#sign_up {
+width : 100%;
+background-color : rgb(100,255,100);
+border-radius : 5px;
+border : solid 1px;
+}
+
+#sign_in {
+text-align : center;
+width : fit-content;
+word-spacing : 5px;
+padding : 10px;
+}
+
+#create_account {
+text-decoration : none;
+color : black;
+max-width : 200px;
+background-color : rgb(100,255,100);
+border-radius : 5px;
+border : solid 1px;
+}
+
+#option_bar {
+max-width : 50%;
+min-height : 200px;
+background-image : linear-gradient(45deg, yellow, rgb(100,200,100), orange);
+border-radius : 10px;
+border : solid 1px;
+padding : 1px;
+}
+
+#alternative {
+width : 99%;
+height : fit-content;
+background-color : purple;
+border-radius : 10px;
+padding : 2px;
+}
